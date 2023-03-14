@@ -1,0 +1,36 @@
+.headerbar{
+    background: linear-gradient(90deg, #812868 0%, #f954a4 100%);
+    /* background-color: #f954a4; */
+    color: #fff;
+    padding-top: 15px;
+     
+}
+.onlineclassbg {
+    background: linear-gradient(100deg, rgba(0, 0, 0, 1), rgba(35, 31, 32, 0.6)), url(./images/appbg.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed
+}
+
+
+
+.ourclassbox {
+    background: url(./images/cardbg.png) no-repeat center;
+    background-size: cover;
+    width: 95vw;
+}
+
+.studentcontainerbox{
+    width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+    padding: 40px 40px;
+    background: url(./images/student-talk-bg.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.studentcontainerbox-youtube{
+    border: 5px solid #fff ;
+    width: 100%;
+}
